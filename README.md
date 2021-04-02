@@ -1,2 +1,5 @@
-# mst-thesis
-This repository contains the scripts used for the spatial analysis methods in my 2021 Master of Science thesis. 
+# MST Thesis - Public Code
+
+This is a public repository containing the code used in the prepartion of Nicholas Caros' 2021 Master of Science in Transportation thesis, titled "Leveraging spatial relationships and visualization to improve public transit performance analysis"
+
+ 
